@@ -1,0 +1,15 @@
+body {
+  font-size: 22px;
+}
+
+p {
+  color: brown;
+}
+
+.beige {
+  color: beige;
+}
+
+#second {
+  font-style: italic;
+}
